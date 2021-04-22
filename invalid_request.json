@@ -1,0 +1,8 @@
+{
+  "provider": "athenz.provider.service",
+  "domain": "tenant.domain",
+  "service": "tenant-service",
+  "attributes": {                                                                                                                                                                       
+    "certRefresh": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "provider": "athenz.provider.service",
+  "domain": "tenant.domain",
+  "service": "tenant-service",
+  "attestationData": "JWT Token String",
+  "attributes": {                                                                                                                                                                       
+    "certRefresh": true
+  }
+}
